@@ -1,4 +1,4 @@
-# Signals-and-Systems
+# Signals and Systems
 
 Programming language: MATLAB
 
